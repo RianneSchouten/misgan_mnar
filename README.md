@@ -1,6 +1,7 @@
 # misgan_mnar
 
-This repository contains the code and results for the experiments presented in "Generating MNAR Missingness in Image Data, with Additional Evaluation of MisGAN", presented at BNAIC 2024.
+This repository contains the code and results for the experiments in:
+"Generating MNAR Missingness in Image Data, with Additional Evaluation of MisGAN", presented at BNAIC 2024.
 
 Authors: Natasha T.J. van den Berg, Bram O. Broekgaarden, Dionysia P.A. Mahieu, Jolijn G.M.J. Martens, Jonas M. Niederle, Rianne M. Schouten, and Wouter Duivesteijn (Eindhoven University of Technology).
 
