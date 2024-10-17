@@ -1,8 +1,10 @@
 # misgan_mnar
 
-The code for the "The Unreasonable Effectiveness of MisGAN Under the MNAR Assumption" paper.
+This repository contains the code and results for the experiments presented in "Generating MNAR Missingness in Image Data, with Additional Evaluation of MisGAN", presented at BNAIC 2024.
 
-Note: this code is partially exactly copied from the original MisGAN paper code, which can be found at https://github.com/steveli/misgan
+Authors: Natasha T.J. van den Berg, Bram O. Broekgaarden, Dionysia P.A. Mahieu, Jolijn G.M.J. Martens, Jonas M. Niederle, Rianne M. Schouten, and Wouter Duivesteijn (Eindhoven University of Technology).
+
+Note: the code is partially exactly copied from the original MisGAN paper code, which can be found at https://github.com/steveli/misgan/
 
 ## Installing packages
 The required packaged can be found in `requirements.txt`. E.g. if using conda install them using: `conda create --name misgan_mnar --file requirements.txt`
